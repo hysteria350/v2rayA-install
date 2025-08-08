@@ -51,7 +51,7 @@ Start-Process -FilePath "Downloads\installer_windows_inno_x64_2.2.4.6.exe" -Argu
 * v2rayA 会作为系统服务运行，默认开机启动，有需要可在任务管理器 “服务” 选项卡中管理。
 * 打开浏览器访问管理面板：<http://127.0.0.1:2017>
 
-> 首次访问需创建管理员账号（仅需记录，不建议重置，如忘记可通过命令 `v2raya --reset-password` 恢复）
+> 首次访问需创建管理员账号（需记录，如忘记可通过命令 `v2raya --reset-password` 重置密码）
 
 ---
 
