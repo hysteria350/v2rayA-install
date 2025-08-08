@@ -53,7 +53,11 @@ Start-Process -FilePath "Downloads\installer_windows_inno_x64_2.2.4.6.exe" -Argu
 
 > 首次访问需创建管理员账号（仅需记录，不建议重置，如忘记可通过命令 `v2raya --reset-password` 恢复）
 
+---
+
 ## 3. 服务器节点配置与连接
+
+先进行 [订阅购买](https://serv011.20250710.top/#/plan) ，获取到订阅链接。订阅链接位于：仪表盘 > 一键订阅 , 然后复制订阅地址或者扫描二维码订阅。
 
 * 进入管理界面后，点击 导入按钮 → 填入订阅地址 → 点击确定按钮。
 * 切换到订阅对应的Tab, 勾选所有节点， 首先进行ping 测试， 再进行http测试。
